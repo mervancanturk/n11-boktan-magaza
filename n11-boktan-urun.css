@@ -1,0 +1,24 @@
+.boktan-magaza-uyari {
+
+    position:absolute;
+    width:100%;
+    height:100%;
+    background:#000000c7;
+    z-index:99999999999999999999999999999999;
+    top:0;
+    color:white;
+    
+    }
+
+    .boktan-magaza-metin {
+        margin:0 auto;
+        position:center;
+        width:100%;
+        text-align:center;
+        margin-top:20%;
+        position:fixed;
+        font-size:5em;
+    }
+    .boktan-magaza-metin b {color:red;}
+
+    #boktan_kapat {color:white;}
