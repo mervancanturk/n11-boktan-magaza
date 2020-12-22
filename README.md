@@ -1,4 +1,4 @@
-# Super Sahibinden Chrome Extension
+# n11 b*ktan mağaza chrome eklentisi
 
 N11'de bulunan kötü mağazaları inatla kapatmayan firma yetkililerinden, para için herşeyi yapan ve müşterilerinin dolandırılmasına göz yuman n11'den müşterileri (ben dahil insanları) korumak için yapılmıştır.
 
